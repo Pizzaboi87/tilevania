@@ -8366,10 +8366,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5501408212373404788, guid: 3b799ea839fc2b34a90bba39462557ac, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7509424527773466769, guid: 3b799ea839fc2b34a90bba39462557ac, type: 3}
       propertyPath: m_Name
       value: Ginger (Player)
