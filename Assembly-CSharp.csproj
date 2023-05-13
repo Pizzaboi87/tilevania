@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
      <None Include="Assets\Sprites\README - License details.txt" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
