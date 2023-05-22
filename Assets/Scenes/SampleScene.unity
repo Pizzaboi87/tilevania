@@ -140,7 +140,7 @@ GameObject:
   - component: {fileID: 17959198}
   m_Layer: 11
   m_Name: Goober (Enemy)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16288,6 +16288,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5551447422395333220, guid: 3b799ea839fc2b34a90bba39462557ac, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 5551447422395333220, guid: 3b799ea839fc2b34a90bba39462557ac, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.02
+      objectReference: {fileID: 0}
     - target: {fileID: 7509424527773466769, guid: 3b799ea839fc2b34a90bba39462557ac, type: 3}
       propertyPath: m_Name
       value: Ginger (Player)
